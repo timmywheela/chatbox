@@ -1,4 +1,4 @@
-# An simple and sleek chat app UI.
+# A simple and sleek chat app UI.
 
 
 ヽ(๏∀๏ )ﾉ
